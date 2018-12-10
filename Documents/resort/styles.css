@@ -1,0 +1,20 @@
+body{background-image: url("https://images.pexels.com/photos/1167021/pexels-photo-1167021.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    background-color: green;
+    background-size:cover;
+}
+h1 {
+    color: red;
+    text-align: center;
+    
+  }
+  h2 {
+     color: green;
+     font-style: italic;
+     text-align: center;
+  }
+  p {
+     font-family: sans-serif;
+  }
+  ul {
+      line-height: 40px;
+  }
