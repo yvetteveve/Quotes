@@ -1,0 +1,32 @@
+.player-console {
+    display: none;
+  }
+body{
+    background-color:brown;
+    font-style: italic;
+    color:skyblue;
+    
+}
+h1{
+font-style: italic; 
+text-align: center; 
+}
+.form{
+    font-style: italic;
+    text-align: center;
+    text-align: right;
+    float: 10px;;
+
+}
+input[type=text]{
+    border-style: solid;
+    width: 40%;
+
+}
+label{
+    margin-left: 200px;
+    /* margin-top: 50px;
+    width: 150px; */
+}
+
+ 
