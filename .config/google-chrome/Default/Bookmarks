@@ -1,0 +1,51 @@
+{
+   "checksum": "7da7ee28a5f9e1a679bcc3db48db0f7e",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13188641415455668",
+            "id": "5",
+            "meta_info": {
+               "last_visited_desktop": "13188644114223787"
+            },
+            "name": "resort - Google Search",
+            "sync_transaction_version": "10",
+            "type": "url",
+            "url": "https://www.google.rw/travel/hotels/resort?ap=YhM4MDUwMDAwNTU5ODYyOTA1NjU0&g2lb=4181926%2C4208993%2C4209588%2C4207631%2C4215556%2C4219394%2C4220469&hl=en&gl=rw&un=0&q=resort&rp=OAFAAA&ictx=1&ved=0ahUKEwja4ou7mI3fAhXGVN8KHS_gDPgQvS4IRTAB&hrf=CgYI0PcHEAAiA1JXRioWCgcI4g8QDBgcEgcI4g8QDBgdGAEoAJoBGBIWbmVhciBOeWFnYXRvdnUsIEtpZ2FsaZIBAiAB&tcfs=EhoaGAoKMjAxOC0xMi0yOBIKMjAxOC0xMi0yOVIA"
+         }, {
+            "date_added": "13189075560758811",
+            "id": "7",
+            "meta_info": {
+               "last_visited_desktop": "13189162680785775"
+            },
+            "name": "Gmail",
+            "sync_transaction_version": "18",
+            "type": "url",
+            "url": "https://accounts.google.com/AddSession/signinchooser?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fca%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=AddSession&cid=0&navigationDirection=forward"
+         } ],
+         "date_added": "13187947201381004",
+         "date_modified": "13189075560758811",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13187947201381013",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "18",
+      "synced": {
+         "children": [  ],
+         "date_added": "13187947201381017",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

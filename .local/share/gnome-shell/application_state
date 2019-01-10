@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="gnome-wifi-panel.desktop" open-window-count="0" score="0" last-seen="0"/>
+    <application id="gnome-control-center.desktop" open-window-count="0" score="420.21588134765625" last-seen="1545028593"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="18994.993469238281" last-seen="1544795210"/>
+    <application id="update-manager.desktop" open-window-count="0" score="0" last-seen="1544685061"/>
+    <application id="google-chrome.desktop" open-window-count="3" score="11329.380187988281" last-seen="1545028903"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="0" score="23.5" last-seen="1544794057"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="0" score="2910.6333312988281" last-seen="1544797800"/>
+    <application id="code-url-handler.desktop" open-window-count="1" score="6997.61572265625" last-seen="1545028918"/>
+  </context>
+</application-state>

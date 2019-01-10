@@ -1,0 +1,6 @@
+2018/12/14-13:11:11.642 4172 Reusing MANIFEST /home/wecode/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/12/14-13:11:11.643 4172 Recovering log #3
+2018/12/14-13:11:11.957 4172 Reusing old log /home/wecode/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2018/12/14-13:11:31.982 4497 Level-0 table #5: started
+2018/12/14-13:11:32.085 4497 Level-0 table #5: 1167625 bytes OK
+2018/12/14-13:11:32.164 4497 Delete type=0 #3

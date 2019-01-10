@@ -1,0 +1,38 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/wecode
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse veve
+> git rev-parse --symbolic-full-name veve@{u}
+fatal: no upstream configured for branch 'veve'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git show :resort/index.html
+> git ls-files --stage -- resort/
+> git show :resort/styles.css
+> git ls-files --stage -- resort/
+> git check-ignore -z --stdin
+> git show :resort/index.html
+> git ls-files --stage -- resort/
+> git show :resort/styles.css
+> git ls-files --stage -- resort/
+> git show :resort/index.html
+> git ls-files --stage -- resort/
+> git show :resort/styles.css
+> git ls-files --stage -- resort/
+> git show :resort/index.html
+> git ls-files --stage -- resort/
+> git show :resort/styles.css
+> git ls-files --stage -- resort/
+> git show :resort/index.html
+> git ls-files --stage -- resort/
+> git show :resort/styles.css
+> git ls-files --stage -- resort/
+> git show :resort/index.html
+> git ls-files --stage -- resort/
+> git show :resort/styles.css
+> git ls-files --stage -- resort/

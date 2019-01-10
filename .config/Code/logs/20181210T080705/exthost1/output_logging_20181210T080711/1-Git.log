@@ -1,0 +1,187 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/wecode
+> git status -z -u
+> git check-ignore -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse veve
+> git rev-parse --symbolic-full-name veve@{u}
+fatal: no upstream configured for branch 'veve'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/index.html
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
+> git show :Desktop/yvette/styles.css
+> git ls-files --stage -- Desktop/yvette/
