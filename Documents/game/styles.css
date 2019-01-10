@@ -10,8 +10,10 @@ body{
 }
 h1{
 font-style: italic; 
-text-align: center; 
+text-align: center;
+font-size: 50% 
 }
+
 .form{
     font-style: italic;
     text-align: center;
