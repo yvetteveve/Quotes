@@ -1,6 +1,6 @@
 # _Pig Dice Game_
 
-#### By _Olivia Hinton & Matthew Wilkin_
+#### By Yvette Umubyeyi & Matthew Wilkin_
 
 ## Description
 
