@@ -2,9 +2,10 @@
     display: none;
   }
 body{
-    background-color:brown;
+    background-color:rgb(61, 34, 66);
     font-style: italic;
-    color:skyblue;
+    color:red;
+    text-align: center;
     
 }
 h1{
