@@ -1,0 +1,52 @@
+body{
+    color: rgb(236, 49, 49);
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTATwR7HLjO5FCpgmvfjKhq9g9ZhG5SgA11sXSeMffA9v0AO5KH");
+  background-size: cover;
+  }
+  #show-contact {
+    display: none;
+  }
+  
+  .contact {
+    cursor: pointer;
+    color: #0088cc;
+  }
+  
+  .contact:hover {
+    text-decoration: underline;
+  }
+form{
+    border: 1px solid brown;
+    padding: 5px;
+    height:80%;
+    background-color: rgb(12, 135, 151);
+}
+label{
+     font-family: 'Courier New', Courier, monospace';
+}
+input[type=text]{
+    height: 10px;
+    widht: 200px;
+    margin-top: 6px;
+    margin-left: 20px;
+    padding:45px;
+    font-style: italic;
+
+}
+input[type=number]{
+     height: 60px;
+     width: 400px;
+     margin-top: 6px;
+     margin-left: 20px;
+}
+h1{
+  font-style: italic;
+}
+#left{
+  display: none;
+  /* float: right; */
+}
+#total-balance{display:none;
+}
+
+

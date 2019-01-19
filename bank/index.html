@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel= "stylesheet" href= "bootstrap.css" type= "text/css">
+<link rel= "stylesheet"  href= "styles.css">
+<script 
+src="https://code.jquery.com/jquery-3.3.1.js"
+integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+crossorigin="anonymous"></script>   
+<script src="script.js"></script>
+<Title>BAKING ACCOUNT</Title>
+</head>
+<body>
+  <div class="container">
+   <h1>'Bank account'</h1>
+
+   <div class="row">
+
+    <div class="col-md-6">
+    <h2>Application Account Form:</h2>
+    <form id="new-contact">
+    <div class="form-group">
+<label for="first name">First Name</label><br>
+<input type="text" id="fname" name="firstname" placeholder="enter first name"><br>
+
+<label for="second name">Second Name</label><br>
+<input type="text" id="sname" name="secondname" placeholder="enter second name"><br>
+
+<label for="bank account">INITIAL DEPOSIT</label><br>
+<INPUT type="text" id="bank" name="initial-deposit"><br>
+    <button type="submit">Enter</button><br>
+</form>
+
+</div>
+
+<div class="col-md-6" id="left">
+<label for="deposit amount">deposit amount</label><br>
+<INPUT type="number" id="depos" name="Deposit amount" placeholder="enter deposit-amount"><br> 
+    <button type="button" id="tdeposit"><strong>deposit</strong></button>
+
+
+<label for="withdraw amount">withdraw amount</label><br>
+<INPUT type="number" id="withd" name="Withdraw amount" placeholder="enter withdraw amount"><br>  
+    <button type="button" id="twithdraw"><strong>withdraw</strong></button>
+
+</div>
+</div>
+</div>
+<h2>Contacts:</h2>
+<ul id="contacts">
+
+    </ul>
+</div>
+
+<div class="col-md-6">
+  <div id="show-contact">
+    
+    <p>Full Name: <span class="first-name"></span></p>
+    <p>Initial Deposit:<span class="deposit"></span></p>
+  
+  </div>
+</div>
+<div id="total-balance">
+ <h3>Total Balance</h3>
+ <p>Total Balance:<span class="total-balance"></span></p>
+ <p>FullName:<span class="fullname"></span></p>
+</div>
+
+</body>
+</html>
