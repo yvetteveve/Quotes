@@ -6,6 +6,6 @@
 
         <app-quote-details *ngIf="quote.showDescription" [quote]='quote'(isComplete)= 'completeQuote($event,i)'></app-quote-details>
         </div>
-        <li *ngFor='let quote of quote'>{{quote.name}}</li>   
+        <!-- <li *ngFor='let quote of quote'>{{quote.name}}</li>    -->
 </ul>
 <p *ngIf='quotes.length > 5'>You have too many quotes</p>

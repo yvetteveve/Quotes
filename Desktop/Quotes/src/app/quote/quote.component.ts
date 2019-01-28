@@ -14,11 +14,18 @@ export class quoteComponent implements OnInit {
     new quote(5, 'Solve math homework','Damn Math'),
     new quote(6, 'Plot my world domination plan','Cause I am an evil overlord'),
 ]
-toogleDetails(index){
-  this.quotes[index].showDescription = !this.quotes[index].showDescription;
-}
 
-  constructor() { }
-  ngOnInit() {
-  }
-}
+completeQuote(isComplete,index){
+  if (isComplete){
+      this.quotes.splice(index,1);
+      }
+      }
+
+// toogleDetails(index){
+//   this.quotes[index].showDescription = !this.quotes[index].showDescription;
+// }
+
+//   constructor() { }
+//   ngOnInit() {
+//   }
+// }
