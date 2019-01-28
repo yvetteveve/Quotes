@@ -15,12 +15,15 @@ export class quoteComponent implements OnInit {
     new Quotes(6, 'the calm after the storm',"Seize the day. Make it yours to grow abundance",new Date(2018,3,12) ),
 ]
 
-completeQuote(isComplete,index){
+deleteQuote(isComplete,index){
   if (isComplete){
+    let toDelete=confirm(`Are you sure you want to delete ${this.quotes[index].name}`)
+  
+    if(toDelete){
       this.quotes.splice(index,1);
       }
       }
-
+    }
 toogleDetails(index){
   this.quotes[index].showDescription = !this.quotes[index].showDescription;
 }
