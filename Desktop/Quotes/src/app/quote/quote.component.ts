@@ -12,7 +12,7 @@ export class quoteComponent implements OnInit {
     new Quotes(3, 'better results starting today',"You have SPECIFIC desires and needs",new Date(2018,3,14) ),
     new Quotes(4, 'be your best',"Which is why I love using Abundance as a clinical and life-transforming ‘Tool’",new Date(2018,2,10) ),
     new Quotes(5, 'transformation within 24 hours',"Our dreams can become supercharged to the power of a thousand in just 24 hours",new Date(2018,3,15) ),
-    new Quotes(6, 'the calm after the storm',"Seize the day. Make it yours to grow abundance",new Date(2018,3,12) ),
+    // new Quotes(6, 'the calm after the storm',"Seize the day. Make it yours to grow abundance",new Date(2018,3,12) ),
 ]
 
 deleteQuote(isComplete,index){
