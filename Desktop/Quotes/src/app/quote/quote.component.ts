@@ -24,6 +24,7 @@ deleteQuote(isComplete,index){
       }
       }
     }
+    
 toogleDetails(index){
   this.quotes[index].showDescription = !this.quotes[index].showDescription;
 }
@@ -34,7 +35,8 @@ addNewQuote(quote){
   quote.completeDate = new Date(quote.completeDate)
   this.quotes.push(quote)
 
-}
+} 
+
   constructor() { }
   ngOnInit() {
   }
