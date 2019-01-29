@@ -1,6 +1,9 @@
 form{background-color: silver;
     width: 400px;
     margin-left: 20px;
+    font-size: 16px;
     /* color: wheat; */
 
-}.row{border:1px solid black;}
+}.row{border:1px solid black;
+}
+button{background-color: olivedrab;}
