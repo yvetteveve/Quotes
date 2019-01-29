@@ -1,3 +1,4 @@
+
 <h1>My Quotes</h1>
 <ul>
     <div class="container">
@@ -6,14 +7,14 @@
         <div class="row">
                 
         <h4 id="{{i}}" appStrikethrough>{{quote.name}} due on {{quote.completeDate|date|uppercase}}</h4> 
-        <button class="btn btn-primary" (click)='toogleDetails(i)'>Toogle Details</button>
+        <button class="btn btn-primary" (click)='Details(i)'> Details</button>
     </div>
     <div class="row" *ngIf="quote.showDescription">
     <app-quote-details  [quote]='quote' (isComplete)= 'deletequote($event,i)'></app-quote-details>
 </div>
-    <li *ngFor='let quote of quote'>{{quote.name}}</li> 
+    <!-- <li *ngFor='let quote of quote'>{{quote.name}}</li>  -->
     </div>   
 </div>
 
 </ul>
-<p *ngIf='quotes.length > 5'>You have too many quotes</p>
+<!-- <p *ngIf='quotes.length > 5'>You have too many quotes</p> -->
