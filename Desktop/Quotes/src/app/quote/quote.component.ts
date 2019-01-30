@@ -36,14 +36,7 @@ addNewQuote(quote){
   this.quotes.push(quote)
 
 } 
-public upvote: number = 0;
-  isLiked(upvote) {
-    this.upvote += 1;
-  }
-  public downvote: number = 0;
-  isDisLiked(upvote) {
-    this.upvote -= 1;
-  }
+
 
 
   constructor() { }
